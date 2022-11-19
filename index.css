@@ -1,0 +1,9 @@
+@font-face{
+	src: url(gogono-cocoa-mochi-cyrillic.otf);
+	font-family: HP;
+}
+.tittle{
+	font-family: HP;
+	text-align: center;
+	font-size: 30px;
+}
